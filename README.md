@@ -1,11 +1,11 @@
 # SIIGO-API-JS
-Este proyecto contiene el código fuente del código del acceso al API de Google Sheets. Cubre cómo integrar la API en su aplicación con Javascript para proporcionar capacidades básicas y adicionales.
+Este proyecto contiene el código fuente de un ejemplo de integración con la API de SIIGO. Cubre cómo autenticarse y consumir métodos para obtener registros, insertar y eliminar.
 
 1. Estructura del Proyecto
 En el proyecto encontrara 2 archivos.
   
     - <b>index.js</b>
--       Se encuentran los métodos para consultar el API
+-       Se encuentran los métodos para interactuar con la API
           - obtenerToken
           - obtenerDesarrolladores
           - obtenerProductos
