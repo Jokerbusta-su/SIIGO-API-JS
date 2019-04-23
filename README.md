@@ -5,17 +5,19 @@ Este proyecto contiene el código fuente de un ejemplo de integración con la AP
 En el proyecto encontrara 2 archivos.
   
     - <b>index.js</b>
--       Se encuentran los métodos para interactuar con la API
+```
+Se encuentran los métodos para interactuar con la API
           - obtenerToken
           - obtenerDesarrolladores
           - obtenerProductos
           - borrarProducto(ID)    
           - crearProducto    
-    
+```
     
     - <b>index.html</b>
--       Se encuentra los formularios para las consultas.
-
+```
+Se encuentra los formularios para las consultas.
+```
 
 2. Configuración
 
