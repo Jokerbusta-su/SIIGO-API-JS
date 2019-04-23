@@ -10,7 +10,7 @@ Para poder ejecutar el siguiente proyecto requiere en su aplicación web.
           - * jQuery -> https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
           - Bootstrap -> https://getbootstrap.com/
 
-*Este requisito es indispensable, dado que el lenguaje usado en javascript sobre jQuery
+*Este requisito es indispensable, dado que el lenguaje usado es javascript sobre jQuery
 ```
 
 ### 2. Métodos
